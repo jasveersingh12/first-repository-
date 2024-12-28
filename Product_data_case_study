@@ -1,0 +1,15 @@
+Case Study 3: Product Data Analysis
+Scenario:
+A data team is tasked with exploring the Product Data to identify trends in product categories, pricing, and availability (assuming we fix the encoding issue).
+
+Beginner Questions:
+1. Write a query to display all product records.
+2. List all unique categories available in the dataset
+.
+Intermediate Questions:
+1. Find the average price of products in each category.
+2. Identify products that fall below the average price in their category.
+
+Advanced Questions:
+1. Write a query to find the top 5 most expensive products in each category.
+2. Generate a summary report showing the count, average price, and total price for products in each category.
