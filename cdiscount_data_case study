@@ -1,0 +1,19 @@
+#### Case Study 1: Discount Analysis**
+**Scenario**:  
+A retail company wants to analyze the effectiveness of their discount strategies across different months. They need insights into which discount bands are most common and how discounts are distributed throughout the year.
+
+**Beginner Questions**:
+1. Write a query to display all records from the `Discount Data` table.
+2. Retrieve the months where the discount band is "medium."
+3. Count how many unique discount bands are in the dataset.
+
+**Intermediate Questions**:
+1. Find the total discount percentage for each month.
+2. Identify the month with the highest average discount percentage.
+3. Write a query to group data by `Discount Band` and calculate the total number of months for each band.
+
+**Advanced Questions**:
+1. Create a ranking query to rank the discount bands for each month based on their discount percentage.
+2. Write a query to calculate a moving average of discounts over consecutive months.
+
+-------------------------------------------------------------------------------------------------------XXXXXXX
