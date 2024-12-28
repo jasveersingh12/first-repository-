@@ -1,0 +1,18 @@
+Case Study 2: Product Sales Insights
+Scenario:
+The sales team wants to evaluate the performance of different products, customer types, and regions to optimize marketing and sales strategies.
+
+Beginner Questions:
+1. Retrieve all sales records from the Product Sales table.
+2 .Write a query to find all sales made by "Government" customers.
+3. List all unique products sold in the dataset.
+
+Intermediate Questions:
+1. Calculate the total number of units sold for each product.
+2. Find the country with the highest number of units sold.
+3. Write a query to filter sales where the Discount Band is not "None."
+
+Advanced Questions:
+1. Write a query to find the top 3 products with the highest total units sold.
+2. Create a query to calculate the percentage contribution of each customer type to total sales.
+3. Generate a report showing monthly sales trends for each product.
