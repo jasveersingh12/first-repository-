@@ -1,11 +1,18 @@
+The Data is in the product_sales.csv. we are using that data for sql queries. All the query we solve are based on that.
+
 Case Study 2: Product Sales Insights
 Scenario:
 The sales team wants to evaluate the performance of different products, customer types, and regions to optimize marketing and sales strategies.
 
 Beginner Questions:
 1. Retrieve all sales records from the Product Sales table.
+Answer 1: 
+
 2 .Write a query to find all sales made by "Government" customers.
+Answer 2: 
+
 3. List all unique products sold in the dataset.
+Answer 3: 
 
 Intermediate Questions:
 1. Calculate the total number of units sold for each product.
